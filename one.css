@@ -1,0 +1,145 @@
+body {
+    background-image: url(bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#sideone {
+    background-image: url(side1.jpg);
+    width: 570px;
+    height: 630px;
+    margin-top: 10px;
+    float: left;
+    box-shadow: 5px 5px #FFF8DC;
+    border-radius: 25px;
+    opacity: 0.9;
+}
+
+#sideone h1 {
+    font-family: fantasy;
+    text-align: center;
+    color: #ffffff;
+    font-size: 50px;
+}
+
+#search-1.input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+
+}
+
+#sideone h2 {
+    font-family: Algerian;
+    text-align: left;
+    color: #ffffff;
+    font-size: 30px;
+    margin-left: 10px;
+    float: left;
+}
+
+#sideone h3 {
+    font-family: Algerian;
+    text-align: left;
+    color: #ffffff;
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+#sidetwo {
+    background-image: url(sidetwo.jpg);
+    background-size: cover;
+    float: right;
+    width: 500px;
+    height: 400px;
+    margin-top: 150px;
+    border-radius: 15px 50px;
+    box-shadow: 5px 5px #FFF8DC;
+    margin-right: 80px;
+    opacity: 0.9;
+}
+
+#logo {
+    width: 150px;
+    float: right;
+    margin-top: 150px;
+    margin-right: 170px;
+}
+
+input[type=text] {
+    width: 200px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    float: right;
+    margin-top: 20px;
+    margin-right: 50px;
+    border-radius: 20px;
+    box-shadow: 2px 2px grey;
+    outline: none;
+
+}
+
+.btn2 {
+    float: right;
+    margin-right: 20px;
+    font-size: 15px;
+    background-color: grey;
+    box-shadow: 2px 2px grey;
+    color: bisque;
+    border-radius: 20px;
+    width: 50px;
+    padding: 12px 20px;
+    width: 80px;
+    cursor: pointer;
+    margin-top: 10px;
+    outline: none;
+
+}
+
+.btn {
+    width: 90px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    float: right;
+    margin-top: 10px;
+    margin-right: 60px;
+    border-radius: 20px;
+    box-shadow: 2px 2px grey;
+    background-color: grey;
+    font-size: 15px;
+    color: bisque;
+    cursor: pointer;
+    outline: none;
+
+}
+
+.btn:active {
+    transform: translateY(2px);
+}
+
+#dekho-1 {
+    font-family: Algerian;
+    font-size: 40px;
+    margin-top: 30px;
+    color: bisque;
+    margin-left: 190px;
+    float: left;
+}
+
+#dekh-1 {
+    font-family: Algerian;
+    font-size: 20px;
+    margin-top: 10px;
+    color: bisque;
+    margin-left: 10px;
+    float: left;
+
+}
