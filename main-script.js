@@ -51,7 +51,7 @@
             zodiacDetail = data.querySelectorAll('p');
 
             title.textContent = zodiacValue.value;
-            details.textContent = zodiacDetail[1].textContent;
+            details.textContent = zodiacDetail[0].textContent;
             logo.src = 'zodiac-signs/' + zd + ".png";
         }
 
