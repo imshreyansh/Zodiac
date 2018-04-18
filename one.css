@@ -37,7 +37,7 @@ body {
     text-align: left;
     color: #ffffff;
     font-size: 30px;
-    margin-left: 30px;
+    margin-left: 10px;
     float: left;
 }
 
@@ -79,7 +79,7 @@ input[type=text] {
     box-sizing: border-box;
     float: right;
     margin-top: 20px;
-    margin-right: 50px;
+    margin-right: 80px;
     border-radius: 20px;
     box-shadow: 2px 2px grey;
     outline: none;
