@@ -79,7 +79,7 @@ input[type=text] {
     box-sizing: border-box;
     float: right;
     margin-top: 20px;
-    margin-right: 100px;
+    margin-right: 140px;
     border-radius: 20px;
     box-shadow: 2px 2px grey;
     outline: none;
@@ -88,7 +88,7 @@ input[type=text] {
 
 .btn2 {
     float: right;
-    margin-right: 40px;
+    margin-right: 60px;
     font-size: 15px;
     background-color: grey;
     box-shadow: 2px 2px grey;
@@ -110,7 +110,7 @@ input[type=text] {
     box-sizing: border-box;
     float: right;
     margin-top: 10px;
-    margin-right: 80px;
+    margin-right: 120px;
     border-radius: 20px;
     box-shadow: 2px 2px grey;
     background-color: grey;
